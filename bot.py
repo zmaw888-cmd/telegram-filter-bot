@@ -4,9 +4,9 @@ from pyrogram import Client, filters
 # ==========================================
 # 1. إعدادات حساب المطور والبوت
 # ==========================================
-API_ID = 31019185
-API_HASH = "398c10077e08dcc15bca1bc721ca469e"
-BOT_TOKEN = "8929685755:AAHYZuK4RZ9fkg5dobcbr8klnkEb5ZH9EUs"
+API_ID =  
+API_HASH = 
+BOT_TOKEN = 
 
 # ==========================================
 # 2. معرفات المجموعات
